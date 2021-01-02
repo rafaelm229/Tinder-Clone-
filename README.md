@@ -1,3 +1,16 @@
 # Tinder Clone UI 
-## Made with Html and Css
+
+#### Screenshots
+
+[!img](/styles/img/Destop_img.png)
+
+
+
+
+
+#### What I Learn
+
+- Learn Grid and Flexbox 
+
+
 
